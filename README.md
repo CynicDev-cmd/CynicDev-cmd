@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-👋 Hi! I'm Austin (CynicDev)
+👋 Hi! I'm CynicDev
 
 🎓 High school senior → Incoming Computer Science & Computer Architecture student at Mount Wachusett Community College.
 💻 I love building things from the ground up — game mechanics, tools, websites, and low-level systems.
